@@ -1,0 +1,14 @@
+create of a rental and selling app
+highly responsive and user friendly mobile app
+
+
+PAGES:
+login
+signup 
+settings 
+home page
+buying page
+rental page
+updation of rental/selling page for admin
+
+
